@@ -23,11 +23,11 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nayaramota&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+      <img src="https://github-readme-stats.vercel.app/api?username=NayaraMferreira&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
     </td>
     <td width="30"> </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayaramota&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaraMferreira&layout=compact&theme=radical" alt="Linguagens mais usadas" />
     </td>
   </tr>
 </table>
